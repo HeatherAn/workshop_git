@@ -1,5 +1,6 @@
 import numpy
 import sys
+import new_script
 import matplotlib.pyplot as plt
 
 def func1():
