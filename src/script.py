@@ -1,5 +1,6 @@
 import numpy
 import sys
+import new_script
 
 def func1():
     return None
