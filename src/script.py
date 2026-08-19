@@ -9,6 +9,9 @@ def func1():
 def func2():
     return None
 
+def xin_function_request():
+    return None
+
 def main():
     return None
 
