@@ -1,5 +1,6 @@
 import numpy
 import sys
+import matplotlib.pyplot as plt
 
 def func1():
     return None
